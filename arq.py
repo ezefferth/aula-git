@@ -2,5 +2,6 @@
 print('Hello World!')
 x = 1
 y = 2
+z = 3
 
-print(x+y)
+print(x+y+z)
